@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9a8d04581c1774a82ae1a9c45cdedc, type: 3}
+  m_Name: Gun_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Kairyu
+  characterIcon: {fileID: -5799423926182858924, guid: 28804a3c1c44452409795f55050494c2, type: 3}
+  dialoguePortrait: {fileID: -5799423926182858924, guid: 28804a3c1c44452409795f55050494c2, type: 3}
+  moveSpeed: 5
+  jumpForce: 12
+  maxHealth: 150
+  attackType: 1
+  attackDamage: 15
+  attackCooldown: 0.25
+  attackRange: 10
+  startingWeapon: {fileID: 11400000, guid: c602603792a43c44fb463d3c13227f76, type: 2}
+  ultimateType: 1
+  ultimateCooldown: 12
+  animatorController: {fileID: 9100000, guid: f816e90010aae62498f8ca93619a36bf, type: 2}

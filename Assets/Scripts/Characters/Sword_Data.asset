@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9a8d04581c1774a82ae1a9c45cdedc, type: 3}
+  m_Name: Sword_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Raizen
+  characterIcon: {fileID: -2241783873435323279, guid: 61896ee1f95501b46a6170cb71feff1d, type: 3}
+  dialoguePortrait: {fileID: -2241783873435323279, guid: 61896ee1f95501b46a6170cb71feff1d, type: 3}
+  moveSpeed: 5
+  jumpForce: 12
+  maxHealth: 100
+  attackType: 0
+  attackDamage: 20
+  attackCooldown: 0.5
+  attackRange: 0.8
+  startingWeapon: {fileID: 0}
+  ultimateType: 0
+  ultimateCooldown: 12
+  animatorController: {fileID: 9100000, guid: c3d827f682556a64c9352cdd4892fcf5, type: 2}

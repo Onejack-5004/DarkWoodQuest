@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: d62d5790abec56e468863043ab651099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3712756754541238950
+    second: frank_ultimate_spritesheet_0
+  - first:
+      213: 953824950082393219
+    second: frank_ultimate_spritesheet_1
+  - first:
+      213: -6006820521341987084
+    second: frank_ultimate_spritesheet_2
+  - first:
+      213: 192648995432793802
+    second: frank_ultimate_spritesheet_3
+  - first:
+      213: 8059059665484810748
+    second: frank_ultimate_spritesheet_4
+  - first:
+      213: -6624074320728503776
+    second: frank_ultimate_spritesheet_5
+  - first:
+      213: -6467224101703565986
+    second: frank_ultimate_spritesheet_6
+  - first:
+      213: 3312519198536602980
+    second: frank_ultimate_spritesheet_7
+  - first:
+      213: -8818535447692196407
+    second: frank_ultimate_spritesheet_8
+  - first:
+      213: 2523095310334652780
+    second: frank_ultimate_spritesheet_9
+  - first:
+      213: 5777672789540111578
+    second: frank_ultimate_spritesheet_10
+  - first:
+      213: 3853894561892655365
+    second: frank_ultimate_spritesheet_11
+  - first:
+      213: -6440196720199483561
+    second: frank_ultimate_spritesheet_12
+  - first:
+      213: -6203289049860923272
+    second: frank_ultimate_spritesheet_13
+  - first:
+      213: -8726027665579467661
+    second: frank_ultimate_spritesheet_14
+  - first:
+      213: 5129871769497292512
+    second: frank_ultimate_spritesheet_15
+  - first:
+      213: -2030230323885369214
+    second: frank_ultimate_spritesheet_16
+  - first:
+      213: -5178685610536146209
+    second: frank_ultimate_spritesheet_17
+  - first:
+      213: 7011986438756019286
+    second: frank_ultimate_spritesheet_18
+  - first:
+      213: -1056978319414575874
+    second: frank_ultimate_spritesheet_19
+  - first:
+      213: -8362389340108735224
+    second: frank_ultimate_spritesheet_20
+  - first:
+      213: 1030544680871850316
+    second: frank_ultimate_spritesheet_21
+  - first:
+      213: -5552178882375645452
+    second: frank_ultimate_spritesheet_22
+  - first:
+      213: -9037372200253044189
+    second: frank_ultimate_spritesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 462
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55232c1763a97cc0800000000000000
+      internalID: -3712756754541238950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 470
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d09f0dbaac3d00800000000000000
+      internalID: 953824950082393219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f652e3bf8c73aca0800000000000000
+      internalID: -6006820521341987084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 272
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac68b1b9d3d6ca200800000000000000
+      internalID: 192648995432793802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 462
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf986e8211887df60800000000000000
+      internalID: 8059059665484810748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 389
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac03b408f8214a0800000000000000
+      internalID: -6624074320728503776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 370
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d3d1fb1fdcf36a0800000000000000
+      internalID: -6467224101703565986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 272
+        width: 148
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659f6c19ae68fd20800000000000000
+      internalID: 3312519198536602980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 234
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5cd11abb44e9580800000000000000
+      internalID: -8818535447692196407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6173fa11d5d30320800000000000000
+      internalID: 2523095310334652780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 16
+        width: 121
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad48af86aca6e2050800000000000000
+      internalID: 5777672789540111578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 191
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501eb6b6fa8cb7530800000000000000
+      internalID: 3853894561892655365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fbfd06433df96a0800000000000000
+      internalID: -6440196720199483561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87028ffb97d79e9a0800000000000000
+      internalID: -6203289049860923272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 146
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c97e4121ce6e680800000000000000
+      internalID: -8726027665579467661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec034f137f03740800000000000000
+      internalID: 5129871769497292512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288169ce64c23d3e0800000000000000
+      internalID: -2030230323885369214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 131
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdae09400ec9128b0800000000000000
+      internalID: -5178685610536146209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 86
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca8e3d3849f4160800000000000000
+      internalID: 7011986438756019286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc310091dbd451f0800000000000000
+      internalID: -1056978319414575874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 82
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d3e457333d2fb80800000000000000
+      internalID: -8362389340108735224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41f88c5dea3d4e00800000000000000
+      internalID: 1030544680871850316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 19
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6039229b2b2f2b0800000000000000
+      internalID: -5552178882375645452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frank_ultimate_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a4decadddc49280800000000000000
+      internalID: -9037372200253044189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frank_ultimate_spritesheet_0: -3712756754541238950
+      frank_ultimate_spritesheet_1: 953824950082393219
+      frank_ultimate_spritesheet_10: 5777672789540111578
+      frank_ultimate_spritesheet_11: 3853894561892655365
+      frank_ultimate_spritesheet_12: -6440196720199483561
+      frank_ultimate_spritesheet_13: -6203289049860923272
+      frank_ultimate_spritesheet_14: -8726027665579467661
+      frank_ultimate_spritesheet_15: 5129871769497292512
+      frank_ultimate_spritesheet_16: -2030230323885369214
+      frank_ultimate_spritesheet_17: -5178685610536146209
+      frank_ultimate_spritesheet_18: 7011986438756019286
+      frank_ultimate_spritesheet_19: -1056978319414575874
+      frank_ultimate_spritesheet_2: -6006820521341987084
+      frank_ultimate_spritesheet_20: -8362389340108735224
+      frank_ultimate_spritesheet_21: 1030544680871850316
+      frank_ultimate_spritesheet_22: -5552178882375645452
+      frank_ultimate_spritesheet_23: -9037372200253044189
+      frank_ultimate_spritesheet_3: 192648995432793802
+      frank_ultimate_spritesheet_4: 8059059665484810748
+      frank_ultimate_spritesheet_5: -6624074320728503776
+      frank_ultimate_spritesheet_6: -6467224101703565986
+      frank_ultimate_spritesheet_7: 3312519198536602980
+      frank_ultimate_spritesheet_8: -8818535447692196407
+      frank_ultimate_spritesheet_9: 2523095310334652780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 9e388bdd19f2d2c44833736dcd930ef2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8840479396985263690
+    second: Purple Armored Reaper with Scythe_0
+  - first:
+      213: -7257433604803575658
+    second: Purple Armored Reaper with Scythe_1
+  - first:
+      213: 2049889938892586200
+    second: Purple Armored Reaper with Scythe_2
+  - first:
+      213: -225206419215223351
+    second: Purple Armored Reaper with Scythe_3
+  - first:
+      213: 3215692567911456113
+    second: Purple Armored Reaper with Scythe_4
+  - first:
+      213: -4322378674407099632
+    second: Purple Armored Reaper with Scythe_5
+  - first:
+      213: 6530752192350825471
+    second: Purple Armored Reaper with Scythe_6
+  - first:
+      213: 1960572714991272288
+    second: Purple Armored Reaper with Scythe_7
+  - first:
+      213: 7464555752995281278
+    second: Purple Armored Reaper with Scythe_8
+  - first:
+      213: 5538409870053728322
+    second: Purple Armored Reaper with Scythe_9
+  - first:
+      213: -7388161288966539996
+    second: Purple Armored Reaper with Scythe_10
+  - first:
+      213: -7205596387857179893
+    second: Purple Armored Reaper with Scythe_11
+  - first:
+      213: 8583414432385247801
+    second: Purple Armored Reaper with Scythe_12
+  - first:
+      213: 3200058105329806682
+    second: Purple Armored Reaper with Scythe_13
+  - first:
+      213: 6358733493319105344
+    second: Purple Armored Reaper with Scythe_14
+  - first:
+      213: 6280925208332280663
+    second: Purple Armored Reaper with Scythe_15
+  - first:
+      213: 8283037666362778300
+    second: Purple Armored Reaper with Scythe_16
+  - first:
+      213: -788902851462857486
+    second: Purple Armored Reaper with Scythe_17
+  - first:
+      213: 1337977919645067164
+    second: Purple Armored Reaper with Scythe_18
+  - first:
+      213: -5021402403894702430
+    second: Purple Armored Reaper with Scythe_19
+  - first:
+      213: 2162376434079421533
+    second: Purple Armored Reaper with Scythe_20
+  - first:
+      213: 1655025502955097347
+    second: Purple Armored Reaper with Scythe_21
+  - first:
+      213: 4311712525766441133
+    second: Purple Armored Reaper with Scythe_22
+  - first:
+      213: -8131743903653619335
+    second: Purple Armored Reaper with Scythe_23
+  - first:
+      213: -4106973528925373079
+    second: Purple Armored Reaper with Scythe_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Armored Reaper with Scythe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a88ac3de405580800000000000000
+      internalID: -8840479396985263690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e766a01d92867f44b9d2e4962fdc295c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Armored Reaper with Scythe_0: -8840479396985263690
+      Purple Armored Reaper with Scythe_1: -7257433604803575658
+      Purple Armored Reaper with Scythe_10: -7388161288966539996
+      Purple Armored Reaper with Scythe_11: -7205596387857179893
+      Purple Armored Reaper with Scythe_12: 8583414432385247801
+      Purple Armored Reaper with Scythe_13: 3200058105329806682
+      Purple Armored Reaper with Scythe_14: 6358733493319105344
+      Purple Armored Reaper with Scythe_15: 6280925208332280663
+      Purple Armored Reaper with Scythe_16: 8283037666362778300
+      Purple Armored Reaper with Scythe_17: -788902851462857486
+      Purple Armored Reaper with Scythe_18: 1337977919645067164
+      Purple Armored Reaper with Scythe_19: -5021402403894702430
+      Purple Armored Reaper with Scythe_2: 2049889938892586200
+      Purple Armored Reaper with Scythe_20: 2162376434079421533
+      Purple Armored Reaper with Scythe_21: 1655025502955097347
+      Purple Armored Reaper with Scythe_22: 4311712525766441133
+      Purple Armored Reaper with Scythe_23: -8131743903653619335
+      Purple Armored Reaper with Scythe_24: -4106973528925373079
+      Purple Armored Reaper with Scythe_3: -225206419215223351
+      Purple Armored Reaper with Scythe_4: 3215692567911456113
+      Purple Armored Reaper with Scythe_5: -4322378674407099632
+      Purple Armored Reaper with Scythe_6: 6530752192350825471
+      Purple Armored Reaper with Scythe_7: 1960572714991272288
+      Purple Armored Reaper with Scythe_8: 7464555752995281278
+      Purple Armored Reaper with Scythe_9: 5538409870053728322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

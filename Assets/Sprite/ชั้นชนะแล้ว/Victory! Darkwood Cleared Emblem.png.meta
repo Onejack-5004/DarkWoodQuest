@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: e648fc8931937624cb6a5d27cadf196b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1289136453784395576
+    second: Victory! Darkwood Cleared Emblem_0
+  - first:
+      213: 923626621039141680
+    second: Victory! Darkwood Cleared Emblem_1
+  - first:
+      213: -7353731462094525669
+    second: Victory! Darkwood Cleared Emblem_2
+  - first:
+      213: 1591330216158777396
+    second: Victory! Darkwood Cleared Emblem_3
+  - first:
+      213: -4547707026536270487
+    second: Victory! Darkwood Cleared Emblem_4
+  - first:
+      213: 8159650211853290276
+    second: Victory! Darkwood Cleared Emblem_5
+  - first:
+      213: -4940734795829221428
+    second: Victory! Darkwood Cleared Emblem_6
+  - first:
+      213: 2751603527060947420
+    second: Victory! Darkwood Cleared Emblem_7
+  - first:
+      213: -2445842208664637158
+    second: Victory! Darkwood Cleared Emblem_8
+  - first:
+      213: -7589474030790496419
+    second: Victory! Darkwood Cleared Emblem_9
+  - first:
+      213: -8932560465253366199
+    second: Victory! Darkwood Cleared Emblem_10
+  - first:
+      213: 8119138025468255096
+    second: Victory! Darkwood Cleared Emblem_11
+  - first:
+      213: -7175422176909964606
+    second: Victory! Darkwood Cleared Emblem_12
+  - first:
+      213: 1805632359102326351
+    second: Victory! Darkwood Cleared Emblem_13
+  - first:
+      213: 2600729194516761734
+    second: Victory! Darkwood Cleared Emblem_14
+  - first:
+      213: -2335722507171413834
+    second: Victory! Darkwood Cleared Emblem_15
+  - first:
+      213: -5078068437961964212
+    second: Victory! Darkwood Cleared Emblem_16
+  - first:
+      213: 4833919679459861903
+    second: Victory! Darkwood Cleared Emblem_17
+  - first:
+      213: -4697330615588708798
+    second: Victory! Darkwood Cleared Emblem_18
+  - first:
+      213: 6022962338728521814
+    second: Victory! Darkwood Cleared Emblem_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Victory! Darkwood Cleared Emblem_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2106
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033e12ca48161dc00800000000000000
+      internalID: 923626621039141680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c1d0856479c2c0498ab758826692fa8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Victory! Darkwood Cleared Emblem_0: -1289136453784395576
+      Victory! Darkwood Cleared Emblem_1: 923626621039141680
+      Victory! Darkwood Cleared Emblem_10: -8932560465253366199
+      Victory! Darkwood Cleared Emblem_11: 8119138025468255096
+      Victory! Darkwood Cleared Emblem_12: -7175422176909964606
+      Victory! Darkwood Cleared Emblem_13: 1805632359102326351
+      Victory! Darkwood Cleared Emblem_14: 2600729194516761734
+      Victory! Darkwood Cleared Emblem_15: -2335722507171413834
+      Victory! Darkwood Cleared Emblem_16: -5078068437961964212
+      Victory! Darkwood Cleared Emblem_17: 4833919679459861903
+      Victory! Darkwood Cleared Emblem_18: -4697330615588708798
+      Victory! Darkwood Cleared Emblem_19: 6022962338728521814
+      Victory! Darkwood Cleared Emblem_2: -7353731462094525669
+      Victory! Darkwood Cleared Emblem_3: 1591330216158777396
+      Victory! Darkwood Cleared Emblem_4: -4547707026536270487
+      Victory! Darkwood Cleared Emblem_5: 8159650211853290276
+      Victory! Darkwood Cleared Emblem_6: -4940734795829221428
+      Victory! Darkwood Cleared Emblem_7: 2751603527060947420
+      Victory! Darkwood Cleared Emblem_8: -2445842208664637158
+      Victory! Darkwood Cleared Emblem_9: -7589474030790496419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: f42bcdb7c2ca7c54eb4c9766538c22b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -651908604028489482
+    second: kaiyu_red_wave_spritesheet_0
+  - first:
+      213: 6660353994343937168
+    second: kaiyu_red_wave_spritesheet_1
+  - first:
+      213: -8705531437293908219
+    second: kaiyu_red_wave_spritesheet_2
+  - first:
+      213: -6234180494923637324
+    second: kaiyu_red_wave_spritesheet_3
+  - first:
+      213: -6457631709932816399
+    second: kaiyu_red_wave_spritesheet_4
+  - first:
+      213: 7727456777794314054
+    second: kaiyu_red_wave_spritesheet_5
+  - first:
+      213: 3508754849999128180
+    second: kaiyu_red_wave_spritesheet_6
+  - first:
+      213: 6962238919477636623
+    second: kaiyu_red_wave_spritesheet_7
+  - first:
+      213: -696605119989526837
+    second: kaiyu_red_wave_spritesheet_8
+  - first:
+      213: -3684744574947843256
+    second: kaiyu_red_wave_spritesheet_9
+  - first:
+      213: 3289096127267850479
+    second: kaiyu_red_wave_spritesheet_10
+  - first:
+      213: -6613191868077725323
+    second: kaiyu_red_wave_spritesheet_11
+  - first:
+      213: -9144491964384853117
+    second: kaiyu_red_wave_spritesheet_12
+  - first:
+      213: 5731147933021662129
+    second: kaiyu_red_wave_spritesheet_13
+  - first:
+      213: 583203692223799715
+    second: kaiyu_red_wave_spritesheet_14
+  - first:
+      213: 6547671696646186047
+    second: kaiyu_red_wave_spritesheet_15
+  - first:
+      213: 895025411693468043
+    second: kaiyu_red_wave_spritesheet_16
+  - first:
+      213: -6288390866144697314
+    second: kaiyu_red_wave_spritesheet_17
+  - first:
+      213: 4087894606669394506
+    second: kaiyu_red_wave_spritesheet_18
+  - first:
+      213: 8044374455624669593
+    second: kaiyu_red_wave_spritesheet_19
+  - first:
+      213: 906929736333564165
+    second: kaiyu_red_wave_spritesheet_20
+  - first:
+      213: 4249935457799564580
+    second: kaiyu_red_wave_spritesheet_21
+  - first:
+      213: -1540096771255068878
+    second: kaiyu_red_wave_spritesheet_22
+  - first:
+      213: 3662996509860917096
+    second: kaiyu_red_wave_spritesheet_23
+  - first:
+      213: 6746223764658634395
+    second: kaiyu_red_wave_spritesheet_24
+  - first:
+      213: -1673177885121518246
+    second: kaiyu_red_wave_spritesheet_25
+  - first:
+      213: -1042068756181528802
+    second: kaiyu_red_wave_spritesheet_26
+  - first:
+      213: -2755552342129228470
+    second: kaiyu_red_wave_spritesheet_27
+  - first:
+      213: 7620138151941889476
+    second: kaiyu_red_wave_spritesheet_28
+  - first:
+      213: 5161961706480368043
+    second: kaiyu_red_wave_spritesheet_29
+  - first:
+      213: 1187168872231497251
+    second: kaiyu_red_wave_spritesheet_30
+  - first:
+      213: 4582942638195895836
+    second: kaiyu_red_wave_spritesheet_31
+  - first:
+      213: -1473844998676199146
+    second: kaiyu_red_wave_spritesheet_32
+  - first:
+      213: -3408048502235479760
+    second: kaiyu_red_wave_spritesheet_33
+  - first:
+      213: 8341095009590211477
+    second: kaiyu_red_wave_spritesheet_34
+  - first:
+      213: -890944757132500752
+    second: kaiyu_red_wave_spritesheet_35
+  - first:
+      213: -5834824462880363612
+    second: kaiyu_red_wave_spritesheet_36
+  - first:
+      213: 2339365651390815507
+    second: kaiyu_red_wave_spritesheet_37
+  - first:
+      213: -4226553791950717777
+    second: kaiyu_red_wave_spritesheet_38
+  - first:
+      213: -2569976281105526665
+    second: kaiyu_red_wave_spritesheet_39
+  - first:
+      213: -1079918240580290681
+    second: kaiyu_red_wave_spritesheet_40
+  - first:
+      213: -1326477549536412306
+    second: kaiyu_red_wave_spritesheet_41
+  - first:
+      213: 2506977565891515681
+    second: kaiyu_red_wave_spritesheet_42
+  - first:
+      213: -8349527934578520197
+    second: kaiyu_red_wave_spritesheet_43
+  - first:
+      213: -4977418439875074189
+    second: kaiyu_red_wave_spritesheet_44
+  - first:
+      213: 3584160247959313237
+    second: kaiyu_red_wave_spritesheet_45
+  - first:
+      213: 4454401748454670146
+    second: kaiyu_red_wave_spritesheet_46
+  - first:
+      213: 4923393217050418966
+    second: kaiyu_red_wave_spritesheet_47
+  - first:
+      213: -6569937035404973913
+    second: kaiyu_red_wave_spritesheet_48
+  - first:
+      213: -2972068386340001203
+    second: kaiyu_red_wave_spritesheet_49
+  - first:
+      213: -6487775672228531261
+    second: kaiyu_red_wave_spritesheet_50
+  - first:
+      213: 8807751933415015916
+    second: kaiyu_red_wave_spritesheet_51
+  - first:
+      213: 6971998954452283849
+    second: kaiyu_red_wave_spritesheet_52
+  - first:
+      213: -3849681261650125631
+    second: kaiyu_red_wave_spritesheet_53
+  - first:
+      213: 7348526198264353525
+    second: kaiyu_red_wave_spritesheet_54
+  - first:
+      213: 4514125137663122263
+    second: kaiyu_red_wave_spritesheet_55
+  - first:
+      213: 5266807678867707053
+    second: kaiyu_red_wave_spritesheet_56
+  - first:
+      213: 6264199817663426765
+    second: kaiyu_red_wave_spritesheet_57
+  - first:
+      213: 6090155288422496577
+    second: kaiyu_red_wave_spritesheet_58
+  - first:
+      213: 3086249305092795670
+    second: kaiyu_red_wave_spritesheet_59
+  - first:
+      213: -5524147991659854303
+    second: kaiyu_red_wave_spritesheet_60
+  - first:
+      213: -4925870660635263573
+    second: kaiyu_red_wave_spritesheet_61
+  - first:
+      213: -5344450274347654565
+    second: kaiyu_red_wave_spritesheet_62
+  - first:
+      213: -3757121910977484004
+    second: kaiyu_red_wave_spritesheet_63
+  - first:
+      213: -7571533627120513081
+    second: kaiyu_red_wave_spritesheet_64
+  - first:
+      213: -2639157007660564230
+    second: kaiyu_red_wave_spritesheet_65
+  - first:
+      213: 2642916340308650656
+    second: kaiyu_red_wave_spritesheet_66
+  - first:
+      213: 5398649681503679817
+    second: kaiyu_red_wave_spritesheet_67
+  - first:
+      213: 7362599070045244480
+    second: kaiyu_red_wave_spritesheet_68
+  - first:
+      213: 4674816600323088241
+    second: kaiyu_red_wave_spritesheet_69
+  - first:
+      213: 1673146078761983938
+    second: kaiyu_red_wave_spritesheet_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 696
+        width: 111
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f07cde1494f3f6f0800000000000000
+      internalID: -651908604028489482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 646
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09479377ba45e6c50800000000000000
+      internalID: 6660353994343937168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 571
+        width: 170
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc91b184dbf2780800000000000000
+      internalID: -8705531437293908219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 551
+        width: 217
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5866beddbb79a0800000000000000
+      internalID: -6234180494923637324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 630
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f72f7c22e166a0800000000000000
+      internalID: -6457631709932816399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 594
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f5d916ff07d3b60800000000000000
+      internalID: 7727456777794314054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 596
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476802622f991b030800000000000000
+      internalID: 3508754849999128180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 613
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e2dd4e867de9060800000000000000
+      internalID: 6962238919477636623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 600
+        width: 119
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4e4a85592556f0800000000000000
+      internalID: -696605119989526837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 646
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843af2ae4582ddcc0800000000000000
+      internalID: -3684744574947843256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 562
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8c9e9508735ad20800000000000000
+      internalID: 3289096127267850479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 575
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a9bfb8093934a0800000000000000
+      internalID: -6613191868077725323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 590
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3834d6b020d381180800000000000000
+      internalID: -9144491964384853117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 588
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb68fe1ea0298f40800000000000000
+      internalID: 5731147933021662129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 551
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a122ba0ba4f71800800000000000000
+      internalID: 583203692223799715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 394
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a97097b00eda50800000000000000
+      internalID: 6547671696646186047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 172
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89dfe0bed4cb6c00800000000000000
+      internalID: 895025411693468043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 446
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1462a613d52bb8a0800000000000000
+      internalID: -6288390866144697314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 405
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42b3c57c7e1bb830800000000000000
+      internalID: 4087894606669394506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 415
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9991cbb42fb53af60800000000000000
+      internalID: 8044374455624669593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 315
+        width: 223
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50996624acf069c00800000000000000
+      internalID: 906929736333564165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 311
+        width: 234
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dea7028cdcafa30800000000000000
+      internalID: 4249935457799564580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2379d95752a70aae0800000000000000
+      internalID: -1540096771255068878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 307
+        width: 202
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f61c71be395d230800000000000000
+      internalID: 3662996509860917096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 396
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb6cb55c66f9d50800000000000000
+      internalID: 6746223764658634395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 366
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55ea4f049da7c8e0800000000000000
+      internalID: -1673177885121518246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 347
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4444ccf3d981f0800000000000000
+      internalID: -1042068756181528802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 340
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45446f8ebf42c9d0800000000000000
+      internalID: -2755552342129228470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 325
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd5e5a64b20c960800000000000000
+      internalID: 7620138151941889476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 299
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97ee2a2d8f2a740800000000000000
+      internalID: 5161961706480368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 307
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e62c5accba97010800000000000000
+      internalID: 1187168872231497251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 234
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e68a74c02e99f30800000000000000
+      internalID: 4582942638195895836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6194bef48c9db8be0800000000000000
+      internalID: -1473844998676199146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 166
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031c3fe91fd24b0d0800000000000000
+      internalID: -3408048502235479760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 179
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593786cd7b581c370800000000000000
+      internalID: 8341095009590211477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 85
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ee9cb67ab2a3f0800000000000000
+      internalID: -890944757132500752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 159
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba143b01a860fa0800000000000000
+      internalID: -5834824462880363612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 92
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d56ea5aa8177020800000000000000
+      internalID: 2339365651390815507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 164
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac72be28b34855c0800000000000000
+      internalID: -4226553791950717777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 152
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770968b403c955cd0800000000000000
+      internalID: -2569976281105526665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 139
+        width: 77
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873fb3f41c5301f0800000000000000
+      internalID: -1079918240580290681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 159
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df95952b7679de0800000000000000
+      internalID: -1326477549536412306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 161
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12556da40d29ac220800000000000000
+      internalID: 2506977565891515681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 159
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f0f39c494802c80800000000000000
+      internalID: -8349527934578520197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 88
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37764c8ec48aceab0800000000000000
+      internalID: -4977418439875074189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 150
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd0bd71ce7db130800000000000000
+      internalID: 3584160247959313237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 107
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ff48f2ac631dd30800000000000000
+      internalID: 4454401748454670146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 148
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f9bdfab08635440800000000000000
+      internalID: 4923393217050418966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 148
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8e0084315e2d4a0800000000000000
+      internalID: -6569937035404973913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 138
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a2900ac8711c6d0800000000000000
+      internalID: -2972068386340001203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 148
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b56a566ac6f5a0800000000000000
+      internalID: -6487775672228531261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 134
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce546fcc7bb6b3a70800000000000000
+      internalID: 8807751933415015916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 112
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f58e1c1481c060800000000000000
+      internalID: 6971998954452283849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 125
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccdddcf94f239ac0800000000000000
+      internalID: -3849681261650125631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 122
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d236a4a53bf560800000000000000
+      internalID: 7348526198264353525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 114
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b521655e465ae30800000000000000
+      internalID: 4514125137663122263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4953fdda5771940800000000000000
+      internalID: 5266807678867707053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 131
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc035e58b88eee650800000000000000
+      internalID: 6264199817663426765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 117
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b361c7f3948450800000000000000
+      internalID: 6090155288422496577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 104
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d2a5e246f84da20800000000000000
+      internalID: 3086249305092795670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 117
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264d667ba84653b0800000000000000
+      internalID: -5524147991659854303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badf0578bbac3abb0800000000000000
+      internalID: -4925870660635263573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 94
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e4c5aac2b4d5b0800000000000000
+      internalID: -5344450274347654565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 71
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ba95e27850cdbc0800000000000000
+      internalID: -3757121910977484004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf8e8628428ce690800000000000000
+      internalID: -7571533627120513081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 98
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c8e33fa4df5bd0800000000000000
+      internalID: -2639157007660564230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 102
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2c23a8668da420800000000000000
+      internalID: 2642916340308650656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9457dc4384bdbea40800000000000000
+      internalID: 5398649681503679817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 67
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0ba178d43d2660800000000000000
+      internalID: 7362599070045244480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 84
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f5b540ee840e040800000000000000
+      internalID: 4674816600323088241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_red_wave_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 71
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf12f17e75383710800000000000000
+      internalID: 1673146078761983938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kaiyu_red_wave_spritesheet_0: -651908604028489482
+      kaiyu_red_wave_spritesheet_1: 6660353994343937168
+      kaiyu_red_wave_spritesheet_10: 3289096127267850479
+      kaiyu_red_wave_spritesheet_11: -6613191868077725323
+      kaiyu_red_wave_spritesheet_12: -9144491964384853117
+      kaiyu_red_wave_spritesheet_13: 5731147933021662129
+      kaiyu_red_wave_spritesheet_14: 583203692223799715
+      kaiyu_red_wave_spritesheet_15: 6547671696646186047
+      kaiyu_red_wave_spritesheet_16: 895025411693468043
+      kaiyu_red_wave_spritesheet_17: -6288390866144697314
+      kaiyu_red_wave_spritesheet_18: 4087894606669394506
+      kaiyu_red_wave_spritesheet_19: 8044374455624669593
+      kaiyu_red_wave_spritesheet_2: -8705531437293908219
+      kaiyu_red_wave_spritesheet_20: 906929736333564165
+      kaiyu_red_wave_spritesheet_21: 4249935457799564580
+      kaiyu_red_wave_spritesheet_22: -1540096771255068878
+      kaiyu_red_wave_spritesheet_23: 3662996509860917096
+      kaiyu_red_wave_spritesheet_24: 6746223764658634395
+      kaiyu_red_wave_spritesheet_25: -1673177885121518246
+      kaiyu_red_wave_spritesheet_26: -1042068756181528802
+      kaiyu_red_wave_spritesheet_27: -2755552342129228470
+      kaiyu_red_wave_spritesheet_28: 7620138151941889476
+      kaiyu_red_wave_spritesheet_29: 5161961706480368043
+      kaiyu_red_wave_spritesheet_3: -6234180494923637324
+      kaiyu_red_wave_spritesheet_30: 1187168872231497251
+      kaiyu_red_wave_spritesheet_31: 4582942638195895836
+      kaiyu_red_wave_spritesheet_32: -1473844998676199146
+      kaiyu_red_wave_spritesheet_33: -3408048502235479760
+      kaiyu_red_wave_spritesheet_34: 8341095009590211477
+      kaiyu_red_wave_spritesheet_35: -890944757132500752
+      kaiyu_red_wave_spritesheet_36: -5834824462880363612
+      kaiyu_red_wave_spritesheet_37: 2339365651390815507
+      kaiyu_red_wave_spritesheet_38: -4226553791950717777
+      kaiyu_red_wave_spritesheet_39: -2569976281105526665
+      kaiyu_red_wave_spritesheet_4: -6457631709932816399
+      kaiyu_red_wave_spritesheet_40: -1079918240580290681
+      kaiyu_red_wave_spritesheet_41: -1326477549536412306
+      kaiyu_red_wave_spritesheet_42: 2506977565891515681
+      kaiyu_red_wave_spritesheet_43: -8349527934578520197
+      kaiyu_red_wave_spritesheet_44: -4977418439875074189
+      kaiyu_red_wave_spritesheet_45: 3584160247959313237
+      kaiyu_red_wave_spritesheet_46: 4454401748454670146
+      kaiyu_red_wave_spritesheet_47: 4923393217050418966
+      kaiyu_red_wave_spritesheet_48: -6569937035404973913
+      kaiyu_red_wave_spritesheet_49: -2972068386340001203
+      kaiyu_red_wave_spritesheet_5: 7727456777794314054
+      kaiyu_red_wave_spritesheet_50: -6487775672228531261
+      kaiyu_red_wave_spritesheet_51: 8807751933415015916
+      kaiyu_red_wave_spritesheet_52: 6971998954452283849
+      kaiyu_red_wave_spritesheet_53: -3849681261650125631
+      kaiyu_red_wave_spritesheet_54: 7348526198264353525
+      kaiyu_red_wave_spritesheet_55: 4514125137663122263
+      kaiyu_red_wave_spritesheet_56: 5266807678867707053
+      kaiyu_red_wave_spritesheet_57: 6264199817663426765
+      kaiyu_red_wave_spritesheet_58: 6090155288422496577
+      kaiyu_red_wave_spritesheet_59: 3086249305092795670
+      kaiyu_red_wave_spritesheet_6: 3508754849999128180
+      kaiyu_red_wave_spritesheet_60: -5524147991659854303
+      kaiyu_red_wave_spritesheet_61: -4925870660635263573
+      kaiyu_red_wave_spritesheet_62: -5344450274347654565
+      kaiyu_red_wave_spritesheet_63: -3757121910977484004
+      kaiyu_red_wave_spritesheet_64: -7571533627120513081
+      kaiyu_red_wave_spritesheet_65: -2639157007660564230
+      kaiyu_red_wave_spritesheet_66: 2642916340308650656
+      kaiyu_red_wave_spritesheet_67: 5398649681503679817
+      kaiyu_red_wave_spritesheet_68: 7362599070045244480
+      kaiyu_red_wave_spritesheet_69: 4674816600323088241
+      kaiyu_red_wave_spritesheet_7: 6962238919477636623
+      kaiyu_red_wave_spritesheet_70: 1673146078761983938
+      kaiyu_red_wave_spritesheet_8: -696605119989526837
+      kaiyu_red_wave_spritesheet_9: -3684744574947843256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

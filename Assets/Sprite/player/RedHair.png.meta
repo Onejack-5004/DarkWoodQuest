@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 9d13da637709bc24a8a04344a6627ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2201994048847968115
+    second: RedHair_0
+  - first:
+      213: 1940431205027759701
+    second: RedHair_1
+  - first:
+      213: -1004933425878670874
+    second: RedHair_2
+  - first:
+      213: 6252678176588070031
+    second: RedHair_3
+  - first:
+      213: -6500409223832734430
+    second: RedHair_4
+  - first:
+      213: -4556767805344814886
+    second: RedHair_5
+  - first:
+      213: -46527084681785977
+    second: RedHair_6
+  - first:
+      213: 6219444443385812066
+    second: RedHair_7
+  - first:
+      213: -7021678021125417519
+    second: RedHair_8
+  - first:
+      213: -5924497024959910752
+    second: RedHair_9
+  - first:
+      213: -6107187584636657669
+    second: RedHair_10
+  - first:
+      213: 5446141039812538233
+    second: RedHair_11
+  - first:
+      213: 6596579640547651606
+    second: RedHair_12
+  - first:
+      213: 8600814489303257725
+    second: RedHair_13
+  - first:
+      213: 116227797439123481
+    second: RedHair_14
+  - first:
+      213: 7327764953649110891
+    second: RedHair_15
+  - first:
+      213: 2115372125516970177
+    second: RedHair_16
+  - first:
+      213: -1837400574529391497
+    second: RedHair_17
+  - first:
+      213: 980666039172154105
+    second: RedHair_18
+  - first:
+      213: 558019897970002557
+    second: RedHair_19
+  - first:
+      213: 4806824078612189063
+    second: RedHair_20
+  - first:
+      213: 3935535937920051335
+    second: RedHair_21
+  - first:
+      213: -4387581656704718123
+    second: RedHair_22
+  - first:
+      213: -3656915058192296530
+    second: RedHair_23
+  - first:
+      213: -230445062412343749
+    second: RedHair_24
+  - first:
+      213: 8395394320809770412
+    second: RedHair_25
+  - first:
+      213: 4340557816983383908
+    second: RedHair_26
+  - first:
+      213: 5105784158033894214
+    second: RedHair_27
+  - first:
+      213: 3901913282163275387
+    second: RedHair_28
+  - first:
+      213: -3310407042213156096
+    second: RedHair_29
+  - first:
+      213: 2680001248840124710
+    second: RedHair_30
+  - first:
+      213: -1155871929383780846
+    second: RedHair_31
+  - first:
+      213: -1489742756499342851
+    second: RedHair_32
+  - first:
+      213: -3748491594495574782
+    second: RedHair_33
+  - first:
+      213: 4483866507806042755
+    second: RedHair_34
+  - first:
+      213: -8272588287656163725
+    second: RedHair_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedHair_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 58
+        width: 890
+        height: 1173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8884e84412f071e0800000000000000
+      internalID: -2201994048847968115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f6b842af4e9b14949a9638facdf47294
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedHair_0: -2201994048847968115
+      RedHair_1: 1940431205027759701
+      RedHair_10: -6107187584636657669
+      RedHair_11: 5446141039812538233
+      RedHair_12: 6596579640547651606
+      RedHair_13: 8600814489303257725
+      RedHair_14: 116227797439123481
+      RedHair_15: 7327764953649110891
+      RedHair_16: 2115372125516970177
+      RedHair_17: -1837400574529391497
+      RedHair_18: 980666039172154105
+      RedHair_19: 558019897970002557
+      RedHair_2: -1004933425878670874
+      RedHair_20: 4806824078612189063
+      RedHair_21: 3935535937920051335
+      RedHair_22: -4387581656704718123
+      RedHair_23: -3656915058192296530
+      RedHair_24: -230445062412343749
+      RedHair_25: 8395394320809770412
+      RedHair_26: 4340557816983383908
+      RedHair_27: 5105784158033894214
+      RedHair_28: 3901913282163275387
+      RedHair_29: -3310407042213156096
+      RedHair_3: 6252678176588070031
+      RedHair_30: 2680001248840124710
+      RedHair_31: -1155871929383780846
+      RedHair_32: -1489742756499342851
+      RedHair_33: -3748491594495574782
+      RedHair_34: 4483866507806042755
+      RedHair_35: -8272588287656163725
+      RedHair_36: -1334722676
+      RedHair_4: -6500409223832734430
+      RedHair_5: -4556767805344814886
+      RedHair_6: -46527084681785977
+      RedHair_7: 6219444443385812066
+      RedHair_8: -7021678021125417519
+      RedHair_9: -5924497024959910752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

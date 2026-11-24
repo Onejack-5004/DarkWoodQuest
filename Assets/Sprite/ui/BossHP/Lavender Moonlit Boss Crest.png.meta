@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: b88eeb67145ca0641acc0bd71b49aa68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4808255645337160483
+    second: Lavender Moonlit Boss Crest_0
+  - first:
+      213: 6950904973380113959
+    second: Lavender Moonlit Boss Crest_1
+  - first:
+      213: 7336849729230384171
+    second: Lavender Moonlit Boss Crest_2
+  - first:
+      213: 6761899153997240832
+    second: Lavender Moonlit Boss Crest_3
+  - first:
+      213: 9035957893776105649
+    second: Lavender Moonlit Boss Crest_4
+  - first:
+      213: -4998903343436135370
+    second: Lavender Moonlit Boss Crest_5
+  - first:
+      213: 6324952391954355501
+    second: Lavender Moonlit Boss Crest_6
+  - first:
+      213: 8013824009284202564
+    second: Lavender Moonlit Boss Crest_7
+  - first:
+      213: -9029587405261007982
+    second: Lavender Moonlit Boss Crest_8
+  - first:
+      213: -8800730882654788237
+    second: Lavender Moonlit Boss Crest_9
+  - first:
+      213: 6425736065551100060
+    second: Lavender Moonlit Boss Crest_10
+  - first:
+      213: -3382804515339204839
+    second: Lavender Moonlit Boss Crest_11
+  - first:
+      213: -139680898345490650
+    second: Lavender Moonlit Boss Crest_12
+  - first:
+      213: -6136634854608899030
+    second: Lavender Moonlit Boss Crest_13
+  - first:
+      213: 3151874543712536337
+    second: Lavender Moonlit Boss Crest_14
+  - first:
+      213: -8586881935959284950
+    second: Lavender Moonlit Boss Crest_15
+  - first:
+      213: -4869804935439129131
+    second: Lavender Moonlit Boss Crest_16
+  - first:
+      213: 6717345922626308722
+    second: Lavender Moonlit Boss Crest_17
+  - first:
+      213: 1066728767636158073
+    second: Lavender Moonlit Boss Crest_18
+  - first:
+      213: 7430773326189657813
+    second: Lavender Moonlit Boss Crest_19
+  - first:
+      213: -4773392829115745756
+    second: Lavender Moonlit Boss Crest_20
+  - first:
+      213: 3869236245941440888
+    second: Lavender Moonlit Boss Crest_21
+  - first:
+      213: 7973278303285847611
+    second: Lavender Moonlit Boss Crest_22
+  - first:
+      213: 4145039094584270143
+    second: Lavender Moonlit Boss Crest_23
+  - first:
+      213: 3998200899651257122
+    second: Lavender Moonlit Boss Crest_24
+  - first:
+      213: 3913671142427195632
+    second: Lavender Moonlit Boss Crest_25
+  - first:
+      213: -5386923458209262370
+    second: Lavender Moonlit Boss Crest_26
+  - first:
+      213: 720618351836832020
+    second: Lavender Moonlit Boss Crest_27
+  - first:
+      213: 6203056254457175075
+    second: Lavender Moonlit Boss Crest_28
+  - first:
+      213: 1526120850365944735
+    second: Lavender Moonlit Boss Crest_29
+  - first:
+      213: 1952816620623596969
+    second: Lavender Moonlit Boss Crest_30
+  - first:
+      213: 2010532426347302544
+    second: Lavender Moonlit Boss Crest_31
+  - first:
+      213: 3054706597865557980
+    second: Lavender Moonlit Boss Crest_32
+  - first:
+      213: 6702701772782671558
+    second: Lavender Moonlit Boss Crest_33
+  - first:
+      213: -5886196102939516808
+    second: Lavender Moonlit Boss Crest_34
+  - first:
+      213: 4515408046841865919
+    second: Lavender Moonlit Boss Crest_35
+  - first:
+      213: 8059657883390619570
+    second: Lavender Moonlit Boss Crest_36
+  - first:
+      213: -1568067772682068808
+    second: Lavender Moonlit Boss Crest_37
+  - first:
+      213: 6588793905653332308
+    second: Lavender Moonlit Boss Crest_38
+  - first:
+      213: -941287093239666261
+    second: Lavender Moonlit Boss Crest_39
+  - first:
+      213: -53734195186953315
+    second: Lavender Moonlit Boss Crest_40
+  - first:
+      213: 8802565013617173956
+    second: Lavender Moonlit Boss Crest_41
+  - first:
+      213: -5455549099011611317
+    second: Lavender Moonlit Boss Crest_42
+  - first:
+      213: -1505227425034904531
+    second: Lavender Moonlit Boss Crest_43
+  - first:
+      213: -6109078886630460158
+    second: Lavender Moonlit Boss Crest_44
+  - first:
+      213: 1215134667811076611
+    second: Lavender Moonlit Boss Crest_45
+  - first:
+      213: -3027264064261397099
+    second: Lavender Moonlit Boss Crest_46
+  - first:
+      213: -6928605091537620819
+    second: Lavender Moonlit Boss Crest_47
+  - first:
+      213: -8097742236934530778
+    second: Lavender Moonlit Boss Crest_48
+  - first:
+      213: 5564743760948615265
+    second: Lavender Moonlit Boss Crest_49
+  - first:
+      213: 2256268557437224449
+    second: Lavender Moonlit Boss Crest_50
+  - first:
+      213: -905034469260299510
+    second: Lavender Moonlit Boss Crest_51
+  - first:
+      213: 1479523461163625533
+    second: Lavender Moonlit Boss Crest_52
+  - first:
+      213: -2972430942598074109
+    second: Lavender Moonlit Boss Crest_53
+  - first:
+      213: -6377200423738580652
+    second: Lavender Moonlit Boss Crest_54
+  - first:
+      213: 7385852778420932791
+    second: Lavender Moonlit Boss Crest_55
+  - first:
+      213: -7175443811840264747
+    second: Lavender Moonlit Boss Crest_56
+  - first:
+      213: -6313053444822006984
+    second: Lavender Moonlit Boss Crest_57
+  - first:
+      213: 4066126811921346907
+    second: Lavender Moonlit Boss Crest_58
+  - first:
+      213: -6540503410589479442
+    second: Lavender Moonlit Boss Crest_59
+  - first:
+      213: 6876847430047821008
+    second: Lavender Moonlit Boss Crest_60
+  - first:
+      213: -4116052268240435816
+    second: Lavender Moonlit Boss Crest_61
+  - first:
+      213: -8004687427351769343
+    second: Lavender Moonlit Boss Crest_62
+  - first:
+      213: 686794155346641669
+    second: Lavender Moonlit Boss Crest_63
+  - first:
+      213: -8654634883167782932
+    second: Lavender Moonlit Boss Crest_64
+  - first:
+      213: -581343249213785889
+    second: Lavender Moonlit Boss Crest_65
+  - first:
+      213: 1457969234789371418
+    second: Lavender Moonlit Boss Crest_66
+  - first:
+      213: -62376273550029644
+    second: Lavender Moonlit Boss Crest_67
+  - first:
+      213: 2569138185423585282
+    second: Lavender Moonlit Boss Crest_68
+  - first:
+      213: -6245844116517095515
+    second: Lavender Moonlit Boss Crest_69
+  - first:
+      213: 921520703601673835
+    second: Lavender Moonlit Boss Crest_70
+  - first:
+      213: -485154990098341264
+    second: Lavender Moonlit Boss Crest_71
+  - first:
+      213: -8720060887292075655
+    second: Lavender Moonlit Boss Crest_72
+  - first:
+      213: 1801978340925879904
+    second: Lavender Moonlit Boss Crest_73
+  - first:
+      213: -1593831257943762500
+    second: Lavender Moonlit Boss Crest_74
+  - first:
+      213: 291208195847433934
+    second: Lavender Moonlit Boss Crest_75
+  - first:
+      213: -4506162763113791251
+    second: Lavender Moonlit Boss Crest_76
+  - first:
+      213: -7202034851622732977
+    second: Lavender Moonlit Boss Crest_77
+  - first:
+      213: 2052904587546578013
+    second: Lavender Moonlit Boss Crest_78
+  - first:
+      213: -3812048837276105023
+    second: Lavender Moonlit Boss Crest_79
+  - first:
+      213: 1014512642304654266
+    second: Lavender Moonlit Boss Crest_80
+  - first:
+      213: -7295651033206205968
+    second: Lavender Moonlit Boss Crest_81
+  - first:
+      213: -441923928349925434
+    second: Lavender Moonlit Boss Crest_82
+  - first:
+      213: -5448349739034686641
+    second: Lavender Moonlit Boss Crest_83
+  - first:
+      213: 7493301945201277009
+    second: Lavender Moonlit Boss Crest_84
+  - first:
+      213: -2666309958854720405
+    second: Lavender Moonlit Boss Crest_85
+  - first:
+      213: -6840734526256400574
+    second: Lavender Moonlit Boss Crest_86
+  - first:
+      213: 6183702900806344063
+    second: Lavender Moonlit Boss Crest_87
+  - first:
+      213: 3206564154019102614
+    second: Lavender Moonlit Boss Crest_88
+  - first:
+      213: -2363735337396015494
+    second: Lavender Moonlit Boss Crest_89
+  - first:
+      213: -7184539480191668902
+    second: Lavender Moonlit Boss Crest_90
+  - first:
+      213: 7801958049567548035
+    second: Lavender Moonlit Boss Crest_91
+  - first:
+      213: 5475286267132482496
+    second: Lavender Moonlit Boss Crest_92
+  - first:
+      213: 7017462465860743215
+    second: Lavender Moonlit Boss Crest_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lavender Moonlit Boss Crest_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 182
+        width: 1419
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2471ceec1b46daa0800000000000000
+      internalID: -6136634854608899030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 74d95d295b7edc045a962eea38be51bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lavender Moonlit Boss Crest_0: -4808255645337160483
+      Lavender Moonlit Boss Crest_1: 6950904973380113959
+      Lavender Moonlit Boss Crest_10: 6425736065551100060
+      Lavender Moonlit Boss Crest_11: -3382804515339204839
+      Lavender Moonlit Boss Crest_12: -139680898345490650
+      Lavender Moonlit Boss Crest_13: -6136634854608899030
+      Lavender Moonlit Boss Crest_14: 3151874543712536337
+      Lavender Moonlit Boss Crest_15: -8586881935959284950
+      Lavender Moonlit Boss Crest_16: -4869804935439129131
+      Lavender Moonlit Boss Crest_17: 6717345922626308722
+      Lavender Moonlit Boss Crest_18: 1066728767636158073
+      Lavender Moonlit Boss Crest_19: 7430773326189657813
+      Lavender Moonlit Boss Crest_2: 7336849729230384171
+      Lavender Moonlit Boss Crest_20: -4773392829115745756
+      Lavender Moonlit Boss Crest_21: 3869236245941440888
+      Lavender Moonlit Boss Crest_22: 7973278303285847611
+      Lavender Moonlit Boss Crest_23: 4145039094584270143
+      Lavender Moonlit Boss Crest_24: 3998200899651257122
+      Lavender Moonlit Boss Crest_25: 3913671142427195632
+      Lavender Moonlit Boss Crest_26: -5386923458209262370
+      Lavender Moonlit Boss Crest_27: 720618351836832020
+      Lavender Moonlit Boss Crest_28: 6203056254457175075
+      Lavender Moonlit Boss Crest_29: 1526120850365944735
+      Lavender Moonlit Boss Crest_3: 6761899153997240832
+      Lavender Moonlit Boss Crest_30: 1952816620623596969
+      Lavender Moonlit Boss Crest_31: 2010532426347302544
+      Lavender Moonlit Boss Crest_32: 3054706597865557980
+      Lavender Moonlit Boss Crest_33: 6702701772782671558
+      Lavender Moonlit Boss Crest_34: -5886196102939516808
+      Lavender Moonlit Boss Crest_35: 4515408046841865919
+      Lavender Moonlit Boss Crest_36: 8059657883390619570
+      Lavender Moonlit Boss Crest_37: -1568067772682068808
+      Lavender Moonlit Boss Crest_38: 6588793905653332308
+      Lavender Moonlit Boss Crest_39: -941287093239666261
+      Lavender Moonlit Boss Crest_4: 9035957893776105649
+      Lavender Moonlit Boss Crest_40: -53734195186953315
+      Lavender Moonlit Boss Crest_41: 8802565013617173956
+      Lavender Moonlit Boss Crest_42: -5455549099011611317
+      Lavender Moonlit Boss Crest_43: -1505227425034904531
+      Lavender Moonlit Boss Crest_44: -6109078886630460158
+      Lavender Moonlit Boss Crest_45: 1215134667811076611
+      Lavender Moonlit Boss Crest_46: -3027264064261397099
+      Lavender Moonlit Boss Crest_47: -6928605091537620819
+      Lavender Moonlit Boss Crest_48: -8097742236934530778
+      Lavender Moonlit Boss Crest_49: 5564743760948615265
+      Lavender Moonlit Boss Crest_5: -4998903343436135370
+      Lavender Moonlit Boss Crest_50: 2256268557437224449
+      Lavender Moonlit Boss Crest_51: -905034469260299510
+      Lavender Moonlit Boss Crest_52: 1479523461163625533
+      Lavender Moonlit Boss Crest_53: -2972430942598074109
+      Lavender Moonlit Boss Crest_54: -6377200423738580652
+      Lavender Moonlit Boss Crest_55: 7385852778420932791
+      Lavender Moonlit Boss Crest_56: -7175443811840264747
+      Lavender Moonlit Boss Crest_57: -6313053444822006984
+      Lavender Moonlit Boss Crest_58: 4066126811921346907
+      Lavender Moonlit Boss Crest_59: -6540503410589479442
+      Lavender Moonlit Boss Crest_6: 6324952391954355501
+      Lavender Moonlit Boss Crest_60: 6876847430047821008
+      Lavender Moonlit Boss Crest_61: -4116052268240435816
+      Lavender Moonlit Boss Crest_62: -8004687427351769343
+      Lavender Moonlit Boss Crest_63: 686794155346641669
+      Lavender Moonlit Boss Crest_64: -8654634883167782932
+      Lavender Moonlit Boss Crest_65: -581343249213785889
+      Lavender Moonlit Boss Crest_66: 1457969234789371418
+      Lavender Moonlit Boss Crest_67: -62376273550029644
+      Lavender Moonlit Boss Crest_68: 2569138185423585282
+      Lavender Moonlit Boss Crest_69: -6245844116517095515
+      Lavender Moonlit Boss Crest_7: 8013824009284202564
+      Lavender Moonlit Boss Crest_70: 921520703601673835
+      Lavender Moonlit Boss Crest_71: -485154990098341264
+      Lavender Moonlit Boss Crest_72: -8720060887292075655
+      Lavender Moonlit Boss Crest_73: 1801978340925879904
+      Lavender Moonlit Boss Crest_74: -1593831257943762500
+      Lavender Moonlit Boss Crest_75: 291208195847433934
+      Lavender Moonlit Boss Crest_76: -4506162763113791251
+      Lavender Moonlit Boss Crest_77: -7202034851622732977
+      Lavender Moonlit Boss Crest_78: 2052904587546578013
+      Lavender Moonlit Boss Crest_79: -3812048837276105023
+      Lavender Moonlit Boss Crest_8: -9029587405261007982
+      Lavender Moonlit Boss Crest_80: 1014512642304654266
+      Lavender Moonlit Boss Crest_81: -7295651033206205968
+      Lavender Moonlit Boss Crest_82: -441923928349925434
+      Lavender Moonlit Boss Crest_83: -5448349739034686641
+      Lavender Moonlit Boss Crest_84: 7493301945201277009
+      Lavender Moonlit Boss Crest_85: -2666309958854720405
+      Lavender Moonlit Boss Crest_86: -6840734526256400574
+      Lavender Moonlit Boss Crest_87: 6183702900806344063
+      Lavender Moonlit Boss Crest_88: 3206564154019102614
+      Lavender Moonlit Boss Crest_89: -2363735337396015494
+      Lavender Moonlit Boss Crest_9: -8800730882654788237
+      Lavender Moonlit Boss Crest_90: -7184539480191668902
+      Lavender Moonlit Boss Crest_91: 7801958049567548035
+      Lavender Moonlit Boss Crest_92: 5475286267132482496
+      Lavender Moonlit Boss Crest_93: 7017462465860743215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

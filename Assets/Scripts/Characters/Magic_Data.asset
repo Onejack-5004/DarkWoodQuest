@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9a8d04581c1774a82ae1a9c45cdedc, type: 3}
+  m_Name: Magic_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Lyla
+  characterIcon: {fileID: 5651646158922815434, guid: 35b8c47255d1caa489a6e08ea78f57bb, type: 3}
+  dialoguePortrait: {fileID: 5651646158922815434, guid: 35b8c47255d1caa489a6e08ea78f57bb, type: 3}
+  moveSpeed: 5
+  jumpForce: 12
+  maxHealth: 150
+  attackType: 2
+  attackDamage: 0
+  attackCooldown: 1.2
+  attackRange: 0
+  startingWeapon: {fileID: 11400000, guid: da04f1471698b5542b49294780ddfb42, type: 2}
+  ultimateType: 2
+  ultimateCooldown: 12
+  animatorController: {fileID: 9100000, guid: 17c250271822bff489f3dba463a845cf, type: 2}

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 9ebfc29ef8a71414b8fc3d32a3ace4d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4423282608024756934
+    second: kaiyu_ultimate_spritesheet_0
+  - first:
+      213: -6246760102810000666
+    second: kaiyu_ultimate_spritesheet_1
+  - first:
+      213: -7081310986902002373
+    second: kaiyu_ultimate_spritesheet_2
+  - first:
+      213: -855173410651315037
+    second: kaiyu_ultimate_spritesheet_3
+  - first:
+      213: 4209033768054280308
+    second: kaiyu_ultimate_spritesheet_4
+  - first:
+      213: -8200656447732054568
+    second: kaiyu_ultimate_spritesheet_5
+  - first:
+      213: 8514879186558698776
+    second: kaiyu_ultimate_spritesheet_6
+  - first:
+      213: 9085837034310122158
+    second: kaiyu_ultimate_spritesheet_7
+  - first:
+      213: 2739442664160845351
+    second: kaiyu_ultimate_spritesheet_8
+  - first:
+      213: 7957914915692584789
+    second: kaiyu_ultimate_spritesheet_9
+  - first:
+      213: -4748555194547449993
+    second: kaiyu_ultimate_spritesheet_10
+  - first:
+      213: 2244416226799221623
+    second: kaiyu_ultimate_spritesheet_11
+  - first:
+      213: 4378441804904101275
+    second: kaiyu_ultimate_spritesheet_12
+  - first:
+      213: -4893144645181627164
+    second: kaiyu_ultimate_spritesheet_13
+  - first:
+      213: 5418824248679730380
+    second: kaiyu_ultimate_spritesheet_14
+  - first:
+      213: -4326124574160833789
+    second: kaiyu_ultimate_spritesheet_15
+  - first:
+      213: 6964906470967392013
+    second: kaiyu_ultimate_spritesheet_16
+  - first:
+      213: -3344744823307137896
+    second: kaiyu_ultimate_spritesheet_17
+  - first:
+      213: -2901733788156272790
+    second: kaiyu_ultimate_spritesheet_18
+  - first:
+      213: -1792266807125991299
+    second: kaiyu_ultimate_spritesheet_19
+  - first:
+      213: 5811179974520065878
+    second: kaiyu_ultimate_spritesheet_20
+  - first:
+      213: -1174014525060398337
+    second: kaiyu_ultimate_spritesheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 276
+        width: 95
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d558f47e75d92c0800000000000000
+      internalID: -4423282608024756934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 288
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e26de288cc0f49a0800000000000000
+      internalID: -6246760102810000666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 288
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35a2a10d212abd90800000000000000
+      internalID: -7081310986902002373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 401
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e4cc5050d124f0800000000000000
+      internalID: -855173410651315037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 287
+        width: 187
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470df7069ed796a30800000000000000
+      internalID: 4209033768054280308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 364
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d50ae3e86a613e80800000000000000
+      internalID: -8200656447732054568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c234a18dea2670800000000000000
+      internalID: 8514879186558698776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab425d4a0671e70800000000000000
+      internalID: 9085837034310122158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 28
+        width: 219
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5bdfb694740620800000000000000
+      internalID: 2739442664160845351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 27
+        width: 116
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f93a6f371307e60800000000000000
+      internalID: 7957914915692584789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 176
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fc9a0a53eb91eb0800000000000000
+      internalID: -4748555194547449993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 113
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b7d76baa4c52f10800000000000000
+      internalID: 2244416226799221623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 120
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b957703af9953cc30800000000000000
+      internalID: 4378441804904101275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e42855cede081cb0800000000000000
+      internalID: -4893144645181627164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 119
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc04daa1f7833b40800000000000000
+      internalID: 5418824248679730380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 105
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3033e0fde9486f3c0800000000000000
+      internalID: -4326124574160833789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 120
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b4df988158a060800000000000000
+      internalID: 6964906470967392013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 84
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c837eed441591d0800000000000000
+      internalID: -3344744823307137896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 92
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f52346e78fab7d0800000000000000
+      internalID: -2901733788156272790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 90
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d702882b5d69027e0800000000000000
+      internalID: -1792266807125991299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 98
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fc12bd56575a050800000000000000
+      internalID: 5811179974520065878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiyu_ultimate_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff240a8720015bfe0800000000000000
+      internalID: -1174014525060398337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kaiyu_ultimate_spritesheet_0: -4423282608024756934
+      kaiyu_ultimate_spritesheet_1: -6246760102810000666
+      kaiyu_ultimate_spritesheet_10: -4748555194547449993
+      kaiyu_ultimate_spritesheet_11: 2244416226799221623
+      kaiyu_ultimate_spritesheet_12: 4378441804904101275
+      kaiyu_ultimate_spritesheet_13: -4893144645181627164
+      kaiyu_ultimate_spritesheet_14: 5418824248679730380
+      kaiyu_ultimate_spritesheet_15: -4326124574160833789
+      kaiyu_ultimate_spritesheet_16: 6964906470967392013
+      kaiyu_ultimate_spritesheet_17: -3344744823307137896
+      kaiyu_ultimate_spritesheet_18: -2901733788156272790
+      kaiyu_ultimate_spritesheet_19: -1792266807125991299
+      kaiyu_ultimate_spritesheet_2: -7081310986902002373
+      kaiyu_ultimate_spritesheet_20: 5811179974520065878
+      kaiyu_ultimate_spritesheet_21: -1174014525060398337
+      kaiyu_ultimate_spritesheet_3: -855173410651315037
+      kaiyu_ultimate_spritesheet_4: 4209033768054280308
+      kaiyu_ultimate_spritesheet_5: -8200656447732054568
+      kaiyu_ultimate_spritesheet_6: 8514879186558698776
+      kaiyu_ultimate_spritesheet_7: 9085837034310122158
+      kaiyu_ultimate_spritesheet_8: 2739442664160845351
+      kaiyu_ultimate_spritesheet_9: 7957914915692584789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

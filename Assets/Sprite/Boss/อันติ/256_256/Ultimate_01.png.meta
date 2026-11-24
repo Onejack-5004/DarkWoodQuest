@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 861b879e727b0a74198b5225027e0930
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2381490574042874764
+    second: Ultimate_01_0
+  - first:
+      213: 4326076272494700171
+    second: Ultimate_01_1
+  - first:
+      213: 1227907843578444971
+    second: Ultimate_01_2
+  - first:
+      213: -4642338322379672582
+    second: Ultimate_01_3
+  - first:
+      213: -3723362975753966082
+    second: Ultimate_01_4
+  - first:
+      213: -1709794175031464431
+    second: Ultimate_01_5
+  - first:
+      213: 5560089372903960524
+    second: Ultimate_01_6
+  - first:
+      213: -8028320960555453358
+    second: Ultimate_01_7
+  - first:
+      213: -4149607096042684552
+    second: Ultimate_01_8
+  - first:
+      213: 4347851725044880388
+    second: Ultimate_01_9
+  - first:
+      213: -4935436476122156150
+    second: Ultimate_01_10
+  - first:
+      213: 7538148400393832240
+    second: Ultimate_01_11
+  - first:
+      213: 830635348513325790
+    second: Ultimate_01_12
+  - first:
+      213: -8960450618289785992
+    second: Ultimate_01_13
+  - first:
+      213: -8050334036656120582
+    second: Ultimate_01_14
+  - first:
+      213: -6682938383126078650
+    second: Ultimate_01_15
+  - first:
+      213: -7024642987694339866
+    second: Ultimate_01_16
+  - first:
+      213: 3393247719884491895
+    second: Ultimate_01_17
+  - first:
+      213: -4224522321223330492
+    second: Ultimate_01_18
+  - first:
+      213: 8100137004598376833
+    second: Ultimate_01_19
+  - first:
+      213: -6116011256436231131
+    second: Ultimate_01_20
+  - first:
+      213: -6541552077941950247
+    second: Ultimate_01_21
+  - first:
+      213: -4381343556411555775
+    second: Ultimate_01_22
+  - first:
+      213: 6442177077582447294
+    second: Ultimate_01_23
+  - first:
+      213: -1622499652108539334
+    second: Ultimate_01_24
+  - first:
+      213: -6375604425403653623
+    second: Ultimate_01_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 37
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ultimate_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea736b1479548e0800000000000000
+      internalID: -1709794175031464431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db108ce1b601ef540adf137449f7c010
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ultimate_01_0: -2381490574042874764
+      Ultimate_01_1: 4326076272494700171
+      Ultimate_01_10: -4935436476122156150
+      Ultimate_01_11: 7538148400393832240
+      Ultimate_01_12: 830635348513325790
+      Ultimate_01_13: -8960450618289785992
+      Ultimate_01_14: -8050334036656120582
+      Ultimate_01_15: -6682938383126078650
+      Ultimate_01_16: -7024642987694339866
+      Ultimate_01_17: 3393247719884491895
+      Ultimate_01_18: -4224522321223330492
+      Ultimate_01_19: 8100137004598376833
+      Ultimate_01_2: 1227907843578444971
+      Ultimate_01_20: -6116011256436231131
+      Ultimate_01_21: -6541552077941950247
+      Ultimate_01_22: -4381343556411555775
+      Ultimate_01_23: 6442177077582447294
+      Ultimate_01_24: -1622499652108539334
+      Ultimate_01_25: -6375604425403653623
+      Ultimate_01_3: -4642338322379672582
+      Ultimate_01_4: -3723362975753966082
+      Ultimate_01_5: -1709794175031464431
+      Ultimate_01_6: 5560089372903960524
+      Ultimate_01_7: -8028320960555453358
+      Ultimate_01_8: -4149607096042684552
+      Ultimate_01_9: 4347851725044880388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

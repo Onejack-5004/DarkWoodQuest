@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: b17d0ce940ff96e4dade7d5f1c508bba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9000597052336859427
+    second: ultimate_spritesheet_4x2_cells_256x256_0
+  - first:
+      213: -3777935411800727204
+    second: ultimate_spritesheet_4x2_cells_256x256_1
+  - first:
+      213: -2113877248554917410
+    second: ultimate_spritesheet_4x2_cells_256x256_2
+  - first:
+      213: 1686264465547146024
+    second: ultimate_spritesheet_4x2_cells_256x256_3
+  - first:
+      213: -362154341103485817
+    second: ultimate_spritesheet_4x2_cells_256x256_4
+  - first:
+      213: 3454456092803681380
+    second: ultimate_spritesheet_4x2_cells_256x256_5
+  - first:
+      213: -2780252373141182802
+    second: ultimate_spritesheet_4x2_cells_256x256_6
+  - first:
+      213: 5759402241492596551
+    second: ultimate_spritesheet_4x2_cells_256x256_7
+  - first:
+      213: 5972297703196741186
+    second: ultimate_spritesheet_4x2_cells_256x256_8
+  - first:
+      213: -5609123497087600027
+    second: ultimate_spritesheet_4x2_cells_256x256_9
+  - first:
+      213: -7881536881711894942
+    second: ultimate_spritesheet_4x2_cells_256x256_10
+  - first:
+      213: -315716948820460237
+    second: ultimate_spritesheet_4x2_cells_256x256_11
+  - first:
+      213: -2103855096651356681
+    second: ultimate_spritesheet_4x2_cells_256x256_12
+  - first:
+      213: 6435906700314030258
+    second: ultimate_spritesheet_4x2_cells_256x256_13
+  - first:
+      213: 9136773066764457821
+    second: ultimate_spritesheet_4x2_cells_256x256_14
+  - first:
+      213: 165001698282584056
+    second: ultimate_spritesheet_4x2_cells_256x256_15
+  - first:
+      213: -287479427322642491
+    second: ultimate_spritesheet_4x2_cells_256x256_16
+  - first:
+      213: 715167326719515012
+    second: ultimate_spritesheet_4x2_cells_256x256_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 299
+        width: 130
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32967f6f45b88ec70800000000000000
+      internalID: 9000597052336859427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 307
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51af3362c3129bc0800000000000000
+      internalID: -3777935411800727204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 303
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1aa1d97dff9a2e0800000000000000
+      internalID: -2113877248554917410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 408
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233d42e890d66710800000000000000
+      internalID: 1686264465547146024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 295
+        width: 187
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c39a8ab8e59faf0800000000000000
+      internalID: -362154341103485817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 395
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4fbf8381b0ff20800000000000000
+      internalID: 3454456092803681380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 321
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6abf0723f8a69d0800000000000000
+      internalID: -2780252373141182802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 318
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74731c2f2d18def40800000000000000
+      internalID: 5759402241492596551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 176
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e4ce35e1dd1e250800000000000000
+      internalID: 5972297703196741186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 213
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56afbc6d5e36822b0800000000000000
+      internalID: -5609123497087600027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 171
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2c69d6f72f9290800000000000000
+      internalID: -7881536881711894942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 192
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d7cf79b195e9bf0800000000000000
+      internalID: -315716948820460237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_12
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 55
+        width: 194
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56331bfea9dc2e0800000000000000
+      internalID: -2103855096651356681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 89
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b036c78b0fe05950800000000000000
+      internalID: 6435906700314030258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 186
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d571add02b65cce70800000000000000
+      internalID: 9136773066764457821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7387d9b243a4200800000000000000
+      internalID: 165001698282584056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_16
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 78
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf7336ebfaa20cf0800000000000000
+      internalID: -287479427322642491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_spritesheet_4x2_cells_256x256_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489151005e8cce900800000000000000
+      internalID: 715167326719515012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ultimate_spritesheet_4x2_cells_256x256_0: 9000597052336859427
+      ultimate_spritesheet_4x2_cells_256x256_1: -3777935411800727204
+      ultimate_spritesheet_4x2_cells_256x256_10: -7881536881711894942
+      ultimate_spritesheet_4x2_cells_256x256_11: -315716948820460237
+      ultimate_spritesheet_4x2_cells_256x256_12: -2103855096651356681
+      ultimate_spritesheet_4x2_cells_256x256_13: 6435906700314030258
+      ultimate_spritesheet_4x2_cells_256x256_14: 9136773066764457821
+      ultimate_spritesheet_4x2_cells_256x256_15: 165001698282584056
+      ultimate_spritesheet_4x2_cells_256x256_16: -287479427322642491
+      ultimate_spritesheet_4x2_cells_256x256_17: 715167326719515012
+      ultimate_spritesheet_4x2_cells_256x256_2: -2113877248554917410
+      ultimate_spritesheet_4x2_cells_256x256_3: 1686264465547146024
+      ultimate_spritesheet_4x2_cells_256x256_4: -362154341103485817
+      ultimate_spritesheet_4x2_cells_256x256_5: 3454456092803681380
+      ultimate_spritesheet_4x2_cells_256x256_6: -2780252373141182802
+      ultimate_spritesheet_4x2_cells_256x256_7: 5759402241492596551
+      ultimate_spritesheet_4x2_cells_256x256_8: 5972297703196741186
+      ultimate_spritesheet_4x2_cells_256x256_9: -5609123497087600027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

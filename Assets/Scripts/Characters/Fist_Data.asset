@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9a8d04581c1774a82ae1a9c45cdedc, type: 3}
+  m_Name: Fist_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Flank
+  characterIcon: {fileID: 3145418170067712375, guid: 0638975b167849b4b815e91149f7c156, type: 3}
+  dialoguePortrait: {fileID: 3145418170067712375, guid: 0638975b167849b4b815e91149f7c156, type: 3}
+  moveSpeed: 5
+  jumpForce: 12
+  maxHealth: 100
+  attackType: 0
+  attackDamage: 20
+  attackCooldown: 0.5
+  attackRange: 0.8
+  startingWeapon: {fileID: 0}
+  ultimateType: 3
+  ultimateCooldown: 12
+  animatorController: {fileID: 9100000, guid: 04c52e4a45ca94d4d8cef540ee52b829, type: 2}
