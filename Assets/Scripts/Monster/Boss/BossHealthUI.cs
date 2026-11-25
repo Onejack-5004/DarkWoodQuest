@@ -7,48 +7,77 @@ public class BossHealthUI : MonoBehaviour
     [Header("Boss Reference")]
     public BossHealth bossHealth;
 
+    [Header("Player References")]
+    public PlayerHealth player1Health;
+    public PlayerHealth player2Health;
+
     [Header("UI References")]
     public GameObject bossHPPanel;
     public Image hpFill;
 
     private void OnEnable()
     {
+        // Subscribe Boss Events
         if (bossHealth != null)
         {
             bossHealth.OnHealthChanged += UpdateHealthBar;
             bossHealth.OnBossDied += HideBossHP;
         }
+
+        // Subscribe Player Events
+        if (player1Health != null)
+        {
+            player1Health.OnPlayerDied += CheckPlayersAlive;
+        }
+
+        if (player2Health != null)
+        {
+            player2Health.OnPlayerDied += CheckPlayersAlive;
+        }
     }
 
     private void OnDisable()
     {
+        // Unsubscribe Boss Events
         if (bossHealth != null)
         {
             bossHealth.OnHealthChanged -= UpdateHealthBar;
             bossHealth.OnBossDied -= HideBossHP;
         }
+
+        // Unsubscribe Player Events
+        if (player1Health != null)
+        {
+            player1Health.OnPlayerDied -= CheckPlayersAlive;
+        }
+
+        if (player2Health != null)
+        {
+            player2Health.OnPlayerDied -= CheckPlayersAlive;
+        }
     }
 
     private void Start()
     {
-        // ซ่อน HP Bar ตอนเริ่มเกม
         HideBossHP();
     }
 
     public void ShowBossHP()
     {
-        if (bossHealth == null || hpFill == null)
+        if (bossHealth == null || hpFill == null || bossHPPanel == null)
         {
             Debug.LogError("BossHealthUI references are missing!");
             return;
         }
 
-        if (bossHealth.isDead)
+        if (bossHealth.isDead || !HasLivingPlayer())
+        {
+            HideBossHP();
             return;
+        }
 
         bossHPPanel.SetActive(true);
 
-        // อัปเดตเลือดปัจจุบันทันที
         UpdateHealthBar(
             bossHealth.currentHealth,
             bossHealth.maxHealth
@@ -62,6 +91,33 @@ public class BossHealthUI : MonoBehaviour
         if (bossHPPanel != null)
         {
             bossHPPanel.SetActive(false);
+        }
+    }
+
+    // ตรวจสอบว่ามีผู้เล่นคนไหนยังมีชีวิตอยู่หรือไม่
+    private bool HasLivingPlayer()
+    {
+        bool player1Alive =
+            player1Health != null && !player1Health.isDead;
+
+        bool player2Alive =
+            player2Health != null && !player2Health.isDead;
+
+        if (GameSession.isDuoPlay)
+        {
+            return player1Alive || player2Alive;
+        }
+
+        return player1Alive;
+    }
+
+    // เรียกเมื่อผู้เล่นคนใดคนหนึ่งตาย
+    private void CheckPlayersAlive()
+    {
+        if (!HasLivingPlayer())
+        {
+            HideBossHP();
+            Debug.Log("ALL PLAYERS DEAD - BOSS HP BAR HIDDEN!");
         }
     }
 

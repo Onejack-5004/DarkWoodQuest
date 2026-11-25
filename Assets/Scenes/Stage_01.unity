@@ -569,6 +569,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossHealthUI
   bossHealth: {fileID: 216490715}
+  player1Health: {fileID: 0}
+  player2Health: {fileID: 0}
   bossHPPanel: {fileID: 1097228531}
   hpFill: {fileID: 705330521}
 --- !u!1 &125693724
@@ -2937,7 +2939,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.2
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
